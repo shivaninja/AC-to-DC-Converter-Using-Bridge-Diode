@@ -34,6 +34,8 @@ Capicator is like a small water tank with pipe at its roof. The water will not c
 
 In this way the voltage is discharged with stability and slowly
 
+# Capacitor 
+
 Capacitor = temporary battery
 
 It Stores energy when voltage goes up
@@ -45,9 +47,11 @@ Gives back energy when voltage goes down
 
 Power ON → capacitor fills normally
 
-Power OFF → charge flows through the resistor
+Power OFF → charge flows through the resistor and Resistor consumes all the voltage untill it becomes zero
 
-Voltage slowly goes to zero
+Voltage slowly goes to zero 
+
+capicitor Discharges only when Voltage is zero
 
 Circuit becomes safe and predictable
 
@@ -57,7 +61,11 @@ The resistor is a controlled leak.
 
 Power ON → capacitor fills up (voltage rises)
 
-Power OFF → no place for charge to go
+Power OFF & There is no 10k ohm resistor to consume the voltage
+
+The voltage does not become zero
+
+Since the voltage does not become zero the capacitor does not discharge(NOTE: Capicitor only discharges when voltage becomes zero)
 
 Capacitor stays charged for a long time
 
