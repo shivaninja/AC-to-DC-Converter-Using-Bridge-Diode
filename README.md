@@ -51,9 +51,7 @@ Power OFF → charge flows through the resistor and Resistor consumes all the vo
 
 Voltage slowly goes to zero 
 
-capicitor Discharges only when Voltage is zero
-
-Circuit becomes safe and predictable
+A capacitor discharges because there is a path for current to flow, and voltage becomes zero as a result of discharging Circuit becomes safe and predictable
 
 The resistor is a controlled leak.
 
@@ -65,7 +63,9 @@ Power OFF & There is no 10k ohm resistor to consume the voltage
 
 The voltage does not become zero
 
-Since the voltage does not become zero the capacitor does not discharge(NOTE: Capicitor only discharges when voltage becomes zero)
+Since the voltage does not become zero the capacitor does not discharge
+
+NOTE: A capacitor discharges because there is a path for current to flow, and voltage becomes zero as a result of discharging Circuit becomes safe and predictable
 
 Capacitor stays charged for a long time
 
