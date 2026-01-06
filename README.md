@@ -69,8 +69,6 @@ Since the voltage does not become zero the capacitor does not discharge(NOTE: Ca
 
 Capacitor stays charged for a long time
 
-You touch the circuit →  small shock / spark possible
-
 Multimeter still shows voltage → confusing
 
 The “tank” stays full because there is no leak.
