@@ -36,7 +36,7 @@ In this way the voltage is discharged with stability and slowly
 
 # Capacitor 
 
-Capacitor = temporary battery
+Capacitor is like a temporary battery
 
 It Stores energy when voltage goes up
 
