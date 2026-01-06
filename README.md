@@ -34,5 +34,11 @@ Capicator is like a small water tank with pipe at its roof. The water will not c
 
 In this way the voltage is discharged with stability and slowly
 
+Capacitor = temporary battery
+
+It Stores energy when voltage goes up
+
+Gives back energy when voltage goes down
+
 # NOTE: 
 All the Details related to files are included in folder
