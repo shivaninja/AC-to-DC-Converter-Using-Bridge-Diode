@@ -40,19 +40,6 @@ It Stores energy when voltage goes up
 
 Gives back energy when voltage goes down
 
-# What happens WITHOUT the 10 kΩ resistor?
-
-Power ON → capacitor fills up (voltage rises)
-
-Power OFF → no place for charge to go
-
-Capacitor stays charged for a long time
-
-You touch the circuit →  small shock / spark possible
-
-Multimeter still shows voltage → confusing
-
- The “tank” stays full because there is no leak.
 
 # What happens WITH the 10 kΩ resistor?
 
@@ -65,6 +52,20 @@ Voltage slowly goes to zero
 Circuit becomes safe and predictable
 
 The resistor is a controlled leak.
+
+# What happens WITHOUT the 10 kΩ resistor?
+
+Power ON → capacitor fills up (voltage rises)
+
+Power OFF → no place for charge to go
+
+Capacitor stays charged for a long time
+
+You touch the circuit →  small shock / spark possible
+
+Multimeter still shows voltage → confusing
+
+The “tank” stays full because there is no leak.
 
 # NOTE: 
 All the Details related to files are included in folder
