@@ -41,7 +41,7 @@ It Stores energy when voltage goes up
 Gives back energy when voltage goes down
 
 
-# What happens WITH the 10 kΩ resistor?
+## What happens WITH the 10 kΩ resistor?
 
 Power ON → capacitor fills normally
 
@@ -53,7 +53,7 @@ Circuit becomes safe and predictable
 
 The resistor is a controlled leak.
 
-# What happens WITHOUT the 10 kΩ resistor?
+## What happens WITHOUT the 10 kΩ resistor?
 
 Power ON → capacitor fills up (voltage rises)
 
